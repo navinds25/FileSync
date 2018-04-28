@@ -1,0 +1,10 @@
+{
+"etls":
+[{
+"id": "1",
+"filename": "myfile",
+"incomingpath": "/home/navins/",
+"intermediatefilepath": "/home/navins/",
+"destinationpath": "/data/"
+}]
+}
